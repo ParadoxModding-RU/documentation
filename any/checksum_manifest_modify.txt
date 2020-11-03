@@ -1,0 +1,5 @@
+
+directory
+name = crash_reporter
+sub_directories = yes
+file_extension = .exe
