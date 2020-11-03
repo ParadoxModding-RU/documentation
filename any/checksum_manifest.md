@@ -3,9 +3,13 @@
 ### [ТОЛЬКО ДЛЯ ТЕСТИРОВАНИЯ И РАЗРАБОТКИ МОДА!] 
 ### [МОДИФИКАЦИЯ ФАЙЛА НЕ ДАСТ ВАМ ДОСТУП К АЧИВКАМ ИЛИ ВОЗМОЖНОСТИ ИЗМЕНИТЬ ИГРУ] 
 
-Файл: [checksum_manifest.txt]()
+Файл: [checksum_manifest.txt](https://github.com/ParadoxModding-RU/documentation/blob/master/any/checksum_manifest.txt)
 
-[Cкачать файл для разработки мода, чтобы игнорировать чексумму и для внутрененного тестирования мода]()
+[Cкачать файл для разработки мода, чтобы игнорировать чексумму и для внутрененного тестирования мода](https://raw.githubusercontent.com/ParadoxModding-RU/documentation/master/any/checksum_manifest_modify.txt) 
+
+Инструкция: 
+1. Сохранить как -> .txt файл, название checksum_manifest
+2. Закинуть в корень игры, где лежит hoi4.exe
 
 
 ## Информация:
