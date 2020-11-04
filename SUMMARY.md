@@ -12,6 +12,11 @@
 
 * [Введение](codeSyntaxa/vvedenie.md)
 
+## Скриптинг. 
+* [Фокусы](scripts/focus/main.md)
+   - Все что не упомянуто в основной статье
+   - Tools
+
 ## Работа с ИИ
 
 * [Введение](AI/vvedenie.md)
