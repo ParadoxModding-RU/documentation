@@ -150,7 +150,7 @@
     focus = {
         id = lesson_prerequisite_relative
         icon = GFX_goal_lesson_focus
-        x = 1
+        x = 3
         y = 1
         relative_position_id = lesson_focus_1
         prerequisite = { focus = lesson_focus_1 }
@@ -166,7 +166,7 @@
     focus = {
         id = lesson_prerequisite_non_relative
         icon = GFX_goal_lesson_focus
-        x = 1
+        x = 3
         y = 1
         prerequisite = { focus = lesson_focus_1 }
         cost = 10 
