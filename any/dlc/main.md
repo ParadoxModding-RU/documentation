@@ -1,6 +1,6 @@
 # DLC 
 
-**Папка: dlc** 
+**Папка: dlc/** 
 
 Для каждого длс есть своя папка: dlcNNN_name_dlc, где NNN - номер длс трехзначный, а name_dlc - название длс
 
@@ -37,18 +37,19 @@
 - #030_allied_speeches_pack
 - #031_battle_for_the_bosporus 
   
-## **Дескриптор длс: (файл расширения .dlc) **
-| Значение строки в файле                                       |  Описание                                                                                    |
-| --------------------------------------------------------------| -------------------------------------------------------------------------------------------- |
-| name = "Historical German Portraits"                          |  (string) Название DLC                                                                       |               
-| archive = "dlc/dlc001_german_historical_portraits/dlc001.zip" |  (string) Путь к .zip архиву, путь от dlc/                                                   |               
-| steam_id = "460610"                                           |  (string) Индификатор DLC в Steam                                                            |   
-| pops_id = "hoi4_dlc001_german_historical_portraits"           |  (string) pops_id                                                                            |             
-| affects_checksum = no                                         |  (bool, no/yes) Влияет ли на контрольная сумма (чексумму)?                                   |
-| affects_compatability = no                                    |  (bool, no/yes) Влияет ли на совместимость?                                                  |   
-| checksum = "dda79376083991ba029475ce8766d571"                 |  (string) Чексумма, не изменять. Влияет на генерацию общей чексуммы dlc_signature.           |               
-| third_party_content = no                                      |  (bool, no/yes) Является ли сторонним конктентом?                                            |          
-| category="content"                                            |  (string) Тип контента, Типы: music, content, expansion, unit_pack                           |
+## Дескриптор длс: (файл расширения .dlc)
+
+| **Значение строки в файле**                                       |  **Описание**                                                                                    |
+| ----------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
+| name = "Historical German Portraits"                              |  (string) **Название DLC**                                                                       |
+| archive = "dlc/dlc001_german_historical_portraits/dlc001.zip"     |  (string) **Путь к .zip архиву, путь от dlc/**                                                   |
+| steam_id = "460610"                                               |  (string) **Индификатор DLC в Steam**                                                            |   
+| pops_id = "hoi4_dlc001_german_historical_portraits"               |  (string) **pops_id**                                                                            |
+| affects_checksum = no                                             |  (bool, no/yes) **Влияет ли на контрольная сумма (чексумму)?**                                   |
+| affects_compatability = no                                        |  (bool, no/yes) **Влияет ли на совместимость?**                                                  |   
+| checksum = "dda79376083991ba029475ce8766d571"                     |  (string) **Чексумма, не изменять. Влияет на генерацию общей чексуммы dlc_signature.**           |
+| third_party_content = no                                          |  (bool, no/yes) **Является ли сторонним конктентом?**                                            |
+| category="content"                                                |  (string) **Тип контента, Типы: music, content, expansion, unit_pack**                           |
 
 ```
 name = "Historical German Portraits"                           # (string) Название DLC 
