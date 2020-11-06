@@ -26,6 +26,16 @@
         "doc",
         "translation"
       ]
+    },
+    {
+      "login": "tanktema",
+      "name": "tanktema",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/64923494?v=4",
+      "profile": "https://github.com/tanktema",
+      "contributions": [
+        "doc",
+        "translation"
+      ]
     }
   ],
   "contributorsPerLine": 7,
