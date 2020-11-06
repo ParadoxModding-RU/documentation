@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "Sepera-okeq",
+      "name": "sepera_okeq",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/54331959?v=4",
+      "profile": "https://vk.com/sepera_okeq",
+      "contributions": [
+        "translation"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "documentation",
+  "projectOwner": "ParadoxModding-RU",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
