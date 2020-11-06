@@ -11,7 +11,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/tanktema"><img src="https://avatars2.githubusercontent.com/u/64923494?v=4" width="100px;" alt=""/><br /><sub><b>tanktema</b></sub></a><br /><a href="#translation-tanktema" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://github.com/tanktema"><img src="https://avatars2.githubusercontent.com/u/64923494?v=4" width="100px;" alt=""/><br /><sub><b>tanktema</b></sub></a><br /><a href="#translation-tanktema" title="Translation">🌍</a> <a href="https://github.com/ParadoxModding-RU/documentation/commits?author=tanktema" title="Documentation">📖</a></td>
   </tr>
 </table>
 
