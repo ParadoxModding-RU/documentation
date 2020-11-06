@@ -16,7 +16,7 @@
 * [Фокусы](scripts/focus/main.md)
    - Все что не упомянуто в основной статье
    - Tools
-
+* [Национальный духи](scripts/ideas/national_spirits.md)
 
 ## Работа с ИИ
 
