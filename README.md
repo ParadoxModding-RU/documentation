@@ -11,7 +11,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://vk.com/sepera_okeq"><img src="https://avatars3.githubusercontent.com/u/54331959?v=4" width="100px;" alt=""/><br /><sub><b>sepera_okeq</b></sub></a><br /><a href="#translation-Sepera-okeq" title="Translation">🌍</a> <a href="https://github.com/ParadoxModding-RU/documentation/commits?author=Sepera-okeq" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://vk.com/sepera_okeq"><img src="https://avatars3.githubusercontent.com/u/54331959?v=4" width="100px;" alt=""/><br /><sub><b>sepera_okeq</b></sub></a><br /><a href="#translation-Sepera-okeq" title="Translation">🌍</a> <a href="https://github.com/ParadoxModding-RU/documentation/commits?author=Sepera-okeq" title="Documentation">📖</a> <a href="https://github.com/ParadoxModding-RU/documentation/commits?author=Sepera-okeq" title="Tests">⚠️</a></td>
   </tr>
 </table>
 
