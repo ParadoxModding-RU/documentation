@@ -11,7 +11,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://vk.com/bublov"><img src="https://avatars2.githubusercontent.com/u/33785670?v=4" width="100px;" alt=""/><br /><sub><b>Ivan</b></sub></a><br /><a href="#translation-bublov" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://vk.com/bublov"><img src="https://avatars2.githubusercontent.com/u/33785670?v=4" width="100px;" alt=""/><br /><sub><b>Ivan</b></sub></a><br /><a href="#translation-bublov" title="Translation">🌍</a> <a href="https://github.com/ParadoxModding-RU/documentation/commits?author=bublov" title="Documentation">📖</a></td>
   </tr>
 </table>
 
