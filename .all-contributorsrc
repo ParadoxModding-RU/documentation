@@ -15,6 +15,17 @@
         "doc",
         "test"
       ]
+    },
+    {
+      "login": "Adult-Benladen",
+      "name": "Adult-Benladen",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/66626664?v=4",
+      "profile": "https://github.com/Adult-Benladen",
+      "contributions": [
+        "test",
+        "doc",
+        "translation"
+      ]
     }
   ],
   "contributorsPerLine": 7,
