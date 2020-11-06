@@ -13,7 +13,8 @@
       "contributions": [
         "translation",
         "doc",
-        "test"
+        "test",
+        "maintenance"
       ]
     },
     {
