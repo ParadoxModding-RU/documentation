@@ -11,7 +11,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/Adult-Benladen"><img src="https://avatars2.githubusercontent.com/u/66626664?v=4" width="100px;" alt=""/><br /><sub><b>Adult-Benladen</b></sub></a><br /><a href="#translation-Adult-Benladen" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://github.com/Adult-Benladen"><img src="https://avatars2.githubusercontent.com/u/66626664?v=4" width="100px;" alt=""/><br /><sub><b>Adult-Benladen</b></sub></a><br /><a href="#translation-Adult-Benladen" title="Translation">🌍</a> <a href="https://github.com/ParadoxModding-RU/documentation/commits?author=Adult-Benladen" title="Documentation">📖</a></td>
   </tr>
 </table>
 
