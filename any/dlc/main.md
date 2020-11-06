@@ -45,7 +45,7 @@
 | archive = "dlc/dlc001_german_historical_portraits/dlc001.zip"     |  (string) **Путь к .zip архиву, путь от dlc/**                                                   |
 | steam_id = "460610"                                               |  (string) **Индификатор DLC в Steam**                                                            |   
 | pops_id = "hoi4_dlc001_german_historical_portraits"               |  (string) **pops_id**                                                                            |
-| affects_checksum = no                                             |  (bool, no/yes) **Влияет ли на контрольная сумма (чексумму)?**                                   |
+| affects_checksum = no                                             |  (bool, no/yes) **Влияет ли на контрольная сумму DLC (чексумму или сигнатуру)?**                 |
 | affects_compatability = no                                        |  (bool, no/yes) **Влияет ли на совместимость?**                                                  |   
 | checksum = "dda79376083991ba029475ce8766d571"                     |  (string) **Чексумма, не изменять. Влияет на генерацию общей чексуммы dlc_signature.**           |
 | third_party_content = no                                          |  (bool, no/yes) **Является ли сторонним конктентом?**                                            |
@@ -56,7 +56,7 @@ name = "Historical German Portraits"                           # (string) Наз
 archive = "dlc/dlc001_german_historical_portraits/dlc001.zip"  # (string) Путь к .zip архиву, путь от dlc/ 
 steam_id = "460610"                                            # (string) Индификатор DLC в Steam 
 pops_id = "hoi4_dlc001_german_historical_portraits"
-affects_checksum = no                                          # (bool, no/yes) Влияет ли на контрольная сумма (чексумму)? 
+affects_checksum = no                                          # (bool, no/yes) Влияет ли на контрольная сумму DLC (чексумму или сигнатуру)? 
 affects_compatability = no                                     # (bool, no/yes) Влияет ли на совместимость?
 checksum = "dda79376083991ba029475ce8766d571"                  # (string) Чексумма, не изменять. Влияет на генерацию общей чексуммы dlc_signature.
 third_party_content = no                                       # (bool, no/yes) Является ли сторонним конктентом?
