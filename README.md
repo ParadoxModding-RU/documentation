@@ -1,10 +1,15 @@
-# documentation
+# Репозиторий документации по моддингу Heart of Iron IV 
+### Версия игры: 1.10.2_beta
+
+[![GitHub stars](https://img.shields.io/github/stars/ParadoxModding-RU/documentation)](https://github.com/ParadoxModding-RU/documentation/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/ParadoxModding-RU/documentation)](https://github.com/ParadoxModding-RU/documentation/network)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ParadoxModding-RU/documentation?label=%D0%90%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D1%81%D1%82%D1%8C%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0)
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
-## Contributors ✨
+## Участнники проекта ✨
 
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+Спасибо этим замечательным людям ([что за эмодзи?](https://allcontributors.org/docs/en/emoji-key)):
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
@@ -21,5 +26,3 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
 <!-- ALL-CONTRIBUTORS-LIST:END -->
-
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
