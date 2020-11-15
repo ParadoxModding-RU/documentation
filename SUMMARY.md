@@ -18,6 +18,8 @@
    - Tools
 * Идеи 
    - [Национальные духи](scripts/ideas/national_spirits.md)
+* Ивенты
+   - [Игровые события](scripts/events/main.md)
 
 ## Работа с ИИ
 
