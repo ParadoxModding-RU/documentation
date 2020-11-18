@@ -3,6 +3,7 @@
 ## Основа
 
 * [Untitled](osnova/untitled.md)
+* [Дескриптор](main/descriptor.md)
 
 ## Введение в моддинг
 
