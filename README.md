@@ -1,5 +1,5 @@
 ## Репозиторий документации по моддингу HOI4
-### Версия игры: 1.10.3 
+### Версия игры: 1.10.4 
 ### Официальный сайт документации - [paradoxmodding-ru.gitbook.io](https://paradoxmodding-ru.gitbook.io/)
 
 [![GitHub stars](https://img.shields.io/github/stars/ParadoxModding-RU/documentation)](https://github.com/ParadoxModding-RU/documentation/stargazers)
