@@ -2,7 +2,6 @@
 
 ## Основа
 
-* [Untitled](osnova/untitled.md)
 * [Дескриптор](main/descriptor.md)
 
 ## Введение в моддинг
@@ -14,6 +13,7 @@
 * [Введение](codeSyntaxa/vvedenie.md)
 
 ## Скриптинг. 
+* [Список эффектов(команд)](scripts/effects.md)
 * [Фокусы](scripts/focus/main.md)
    - Все что не упомянуто в основной статье
    - Tools
